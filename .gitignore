@@ -1,0 +1,17 @@
+# Session-internal artifacts (not part of the published coach)
+_PLAN.md
+_HANDOFF.md
+_SESSION_NOTES_*.md
+SESSION_SUMMARY_*.md
+_SHIP_*.md
+_SHIP*.md
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Editor artifacts
+.vscode/
+.idea/
+*.swp
+*~
